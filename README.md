@@ -1,3 +1,3 @@
 # Ising_Multilayer_Networks
 
-Programs, notes and figures for the ising model on multilayer networks project
+Code, figures, notes for the ising model on multilayer networks project
